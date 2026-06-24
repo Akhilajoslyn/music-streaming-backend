@@ -1,0 +1,553 @@
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T10:16:45.819Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T10:16:45.824Z"}
+{"level":"error","message":"Cannot set property query of #<IncomingMessage> which has only a getter","method":"GET","stack":"TypeError: Cannot set property query of #<IncomingMessage> which has only a getter\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\express-mongo-sanitize\\index.js:113:18\n    at Array.forEach (<anonymous>)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\express-mongo-sanitize\\index.js:110:44\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at cookieParser (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\cookie-parser\\index.js:57:14)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)","timestamp":"2026-06-22T10:18:42.848Z","url":"/"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T10:30:05.841Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T10:30:05.844Z"}
+{"level":"error","message":"MongoDB Connection Error: querySrv ECONNREFUSED _mongodb._tcp.music-streaming-cluster.ugkiaq0.mongodb.net","timestamp":"2026-06-22T11:11:36.059Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T11:46:51.464Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T11:46:51.467Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T11:50:09.980Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T11:50:09.983Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T11:50:25.372Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T11:50:25.375Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T11:51:07.903Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T11:51:07.908Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T11:52:16.352Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T11:52:16.355Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T11:56:11.581Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T11:56:11.584Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T11:56:53.693Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T11:56:53.696Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T11:57:45.053Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T11:57:45.057Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T11:57:48.682Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T11:57:48.685Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T11:57:54.437Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T11:57:54.440Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T11:58:13.604Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T11:58:13.608Z"}
+{"level":"error","message":"Route Not Found - /test-register","method":"GET","stack":"Error: Route Not Found - /test-register\n    at notFound (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\notFound.middleware.js:5:9)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\express-rate-limit\\dist\\index.cjs:999:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\express-rate-limit\\dist\\index.cjs:854:5","timestamp":"2026-06-22T11:59:55.876Z","url":"/test-register"}
+{"level":"error","message":"Route Not Found - /test-register","method":"POST","stack":"Error: Route Not Found - /test-register\n    at notFound (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\notFound.middleware.js:5:9)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\express-rate-limit\\dist\\index.cjs:999:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\express-rate-limit\\dist\\index.cjs:854:5","timestamp":"2026-06-22T12:00:46.842Z","url":"/test-register"}
+{"level":"error","message":"Route Not Found - /test-register","method":"POST","stack":"Error: Route Not Found - /test-register\n    at notFound (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\notFound.middleware.js:5:9)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\express-rate-limit\\dist\\index.cjs:999:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\express-rate-limit\\dist\\index.cjs:854:5","timestamp":"2026-06-22T12:00:52.417Z","url":"/test-register"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:02:15.320Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:02:15.323Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:02:18.548Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:02:18.551Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:02:29.647Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:02:29.650Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:06:46.389Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:06:46.392Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:07:25.611Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:07:25.614Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:07:37.970Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:07:37.974Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:07:54.956Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:07:54.959Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:08:38.229Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:08:38.232Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:09:31.352Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:09:31.356Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:13:25.353Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:13:25.357Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:13:40.746Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:13:40.750Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:13:49.762Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:13:49.767Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:13:55.082Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:13:55.088Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:22:17.135Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:22:17.140Z"}
+{"level":"error","message":"User already exists with this email","method":"POST","stack":"Error: User already exists with this email\n    at registerUser (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:14:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:10:24","timestamp":"2026-06-22T12:22:21.770Z","url":"/api/v1/auth/register"}
+{"level":"error","message":"User already exists with this email","method":"POST","stack":"Error: User already exists with this email\n    at registerUser (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:14:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:10:24","timestamp":"2026-06-22T12:22:31.745Z","url":"/api/v1/auth/register"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T12:59:32.769Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T12:59:32.774Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T13:00:00.252Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T13:00:00.256Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T13:00:01.357Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T13:00:01.362Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T13:00:20.262Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T13:00:20.266Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T13:00:30.087Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T13:00:30.091Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T13:01:19.043Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T13:01:19.048Z"}
+{"level":"error","message":"Invalid Email or Password","method":"POST","stack":"Error: Invalid Email or Password\n    at loginUser (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:75:15)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:28:13","timestamp":"2026-06-22T13:03:34.236Z","url":"/api/v1/auth/login"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T13:06:24.450Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T13:06:24.454Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T13:06:33.092Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T13:06:33.097Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T13:07:01.372Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T13:07:01.377Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T13:11:20.344Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T13:11:20.350Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T13:11:31.448Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T13:11:31.453Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-22T13:11:41.288Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-22T13:11:41.292Z"}
+{"level":"error","message":"Access Denied","method":"GET","stack":"Error: Access Denied\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\role.middleware.js:7:17\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:50:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-06-22T13:12:00.309Z","url":"/api/v1/auth/admin-test"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T04:55:33.490Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T04:55:33.495Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T04:58:55.988Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T04:58:55.993Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T04:59:37.157Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T04:59:37.161Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T04:59:59.370Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T04:59:59.375Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T05:00:07.156Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T05:00:07.161Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T05:00:33.023Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T05:00:33.027Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T05:01:01.319Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T05:01:01.323Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T05:01:23.370Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T05:01:23.375Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T05:01:30.111Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T05:01:30.115Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T05:01:44.491Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T05:01:44.495Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T05:01:50.295Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T05:01:50.299Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T05:02:56.882Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T05:02:56.887Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T05:03:00.107Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T05:03:00.112Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T05:03:07.723Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T05:03:07.728Z"}
+{"level":"error","message":"Cannot destructure property 'email' of 'userData' as it is undefined.","method":"POST","stack":"TypeError: Cannot destructure property 'email' of 'userData' as it is undefined.\n    at loginUser (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:50:13)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:28:19\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\utils\\asyncHandler.js:4:13\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\validate.middleware.js:18:9\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)","timestamp":"2026-06-23T05:08:26.196Z","url":"/api/v1/auth/login"}
+{"level":"error","message":"Access Token Required","method":"POST","stack":"Error: Access Token Required\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:20:17)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)","timestamp":"2026-06-23T05:14:41.615Z","url":"/api/v1/genres"}
+{"level":"error","message":"Invalid or Expired Token","method":"POST","stack":"Error: Invalid or Expired Token\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:53:13)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)","timestamp":"2026-06-23T05:16:01.491Z","url":"/api/v1/genres"}
+{"level":"error","message":"Access Token Required","method":"POST","stack":"Error: Access Token Required\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:20:17)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)","timestamp":"2026-06-23T05:17:07.044Z","url":"/api/v1/genres"}
+{"level":"error","message":"Access Token Required","method":"GET","stack":"Error: Access Token Required\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:20:17)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)","timestamp":"2026-06-23T05:18:26.544Z","url":"/api/v1/auth/me"}
+{"level":"error","message":"Invalid or Expired Token","method":"POST","stack":"Error: Invalid or Expired Token\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:53:13)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)","timestamp":"2026-06-23T05:20:07.021Z","url":"/api/v1/genres"}
+{"level":"error","message":"Invalid or Expired Token","method":"POST","stack":"Error: Invalid or Expired Token\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:53:13)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)","timestamp":"2026-06-23T05:20:34.408Z","url":"/api/v1/genres"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T05:24:54.445Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T05:24:54.451Z"}
+{"level":"info","message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-06-23T05:24:55.489Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T05:24:55.493Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T06:08:10.857Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T06:08:10.862Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T06:15:52.138Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T06:15:52.144Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T06:16:00.250Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T06:16:00.256Z"}
+{"level":"error","message":"Route Not Found - /api/v1/auth/register%0ABody","method":"POST","stack":"Error: Route Not Found - /api/v1/auth/register%0ABody\n    at notFound (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\notFound.middleware.js:5:9)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:276:14)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)\n    at router (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:60:12)","timestamp":"2026-06-23T06:35:34.338Z","url":"/api/v1/auth/register%0ABody"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:26:07.962Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:26:07.970Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:36:56.350Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:36:56.356Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:37:03.334Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:37:03.340Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:37:23.701Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:37:23.707Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:37:25.102Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:37:25.107Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:38:38.037Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:38:38.042Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:38:39.284Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:38:39.291Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:41:04.409Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:41:04.415Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:42:38.351Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:42:38.356Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:42:43.101Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:42:43.106Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:46:25.941Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:46:25.947Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:46:33.539Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:46:33.545Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:46:35.551Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:46:35.556Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:47:25.020Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:47:25.026Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:47:36.224Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:47:36.230Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T07:48:46.211Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T07:48:46.217Z"}
+{"level":"error","message":"Invalid or Expired Token","method":"POST","stack":"Error: Invalid or Expired Token\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:53:13)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)","timestamp":"2026-06-23T08:03:55.746Z","url":"/api/v1/artists"}
+{"level":"error","message":"Artist already exists","method":"POST","stack":"Error: Artist already exists\n    at createArtist (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\artist.service.js:12:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\artist.controller.js:16:13","timestamp":"2026-06-23T08:04:31.099Z","url":"/api/v1/artists"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T08:08:11.528Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T08:08:11.534Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T08:08:20.408Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T08:08:20.417Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T08:10:01.322Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T08:10:01.328Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T08:13:49.051Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T08:13:49.059Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T10:11:39.703Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T10:11:39.709Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T10:38:52.808Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T10:38:52.813Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T10:39:22.857Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T10:39:22.864Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T10:39:37.883Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T10:39:37.889Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T10:39:56.557Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T10:39:56.564Z"}
+{"level":"error","message":"User not found","method":"POST","stack":"Error: User not found\n    at forgotPassword (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:118:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:50:13","timestamp":"2026-06-23T10:46:47.861Z","url":"/api/v1/auth/forgot-password"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T10:59:15.249Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T10:59:15.259Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T10:59:16.456Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T10:59:16.462Z"}
+{"level":"error","message":"Invalid Email or Password","method":"POST","stack":"Error: Invalid Email or Password\n    at loginUser (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:80:15)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:31:13","timestamp":"2026-06-23T11:03:42.861Z","url":"/api/v1/auth/login"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:14:39.484Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:14:39.489Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:16:22.932Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:16:22.938Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:16:44.499Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:16:44.505Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:17:19.270Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:17:19.276Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:17:20.400Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:17:20.406Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:17:34.289Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:17:34.295Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:17:57.933Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:17:57.939Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:18:08.272Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:18:08.280Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:18:33.898Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:18:33.904Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:18:47.131Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:18:47.137Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:19:21.691Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:19:21.697Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:19:22.889Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:19:22.894Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:19:33.978Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:19:33.986Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:19:36.560Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:19:36.568Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:19:40.200Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:19:40.206Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:19:59.581Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:19:59.587Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:20:12.238Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:20:12.244Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:20:37.583Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:20:37.589Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:20:48.036Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:20:48.042Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:20:49.156Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:20:49.163Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:20:50.996Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:20:51.002Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:21:36.732Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:21:36.738Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:21:52.714Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:21:52.720Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:23:48.920Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:23:48.927Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:23:50.153Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:23:50.160Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:23:52.294Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:23:52.299Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:23:59.578Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:23:59.584Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:48:54.950Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:48:54.955Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:49:28.387Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:49:28.393Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:49:29.447Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:49:29.453Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:49:43.064Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:49:43.069Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:49:52.930Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:49:52.936Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:50:27.391Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:50:27.397Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:50:51.568Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:50:51.575Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:50:53.115Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:50:53.121Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T11:51:02.028Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T11:51:02.034Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:29:47.825Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:29:47.831Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:29:50.784Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:29:50.790Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:34:38.079Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:34:38.085Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:35:10.047Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:35:10.053Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:35:26.745Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:35:26.752Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:35:41.091Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:35:41.097Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:36:01.666Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:36:01.671Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:36:56.930Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:36:56.935Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:37:39.076Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:37:39.083Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:37:54.710Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:37:54.717Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:38:32.930Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:38:32.936Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:39:12.752Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:39:12.758Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:40:34.113Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:40:34.119Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:40:41.292Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:40:41.299Z"}
+{"level":"error","message":"Invalid Email or Password","method":"POST","stack":"Error: Invalid Email or Password\n    at loginUser (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:92:15)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:34:13","timestamp":"2026-06-23T12:47:53.920Z","url":"/api/v1/auth/login"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:52:10.856Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:52:10.862Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:52:39.329Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:52:39.334Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:52:52.734Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:52:52.740Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:53:04.065Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:53:04.070Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:53:21.062Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:53:21.068Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:54:32.803Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:54:32.809Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:54:51.173Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:54:51.178Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:56:00.965Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:56:00.971Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:56:22.156Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:56:22.162Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:56:52.580Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:56:52.585Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-23T12:57:09.777Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-23T12:57:09.783Z"}
+{"level":"error","message":"Invalid or Expired Token","method":"POST","stack":"Error: Invalid or Expired Token\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:53:13)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)","timestamp":"2026-06-23T13:05:43.552Z","url":"/api/v1/artists"}
+{"level":"error","message":"Invalid or Expired Token","method":"POST","stack":"Error: Invalid or Expired Token\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:53:13)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)","timestamp":"2026-06-23T13:19:15.448Z","url":"/api/v1/albums"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T06:21:23.687Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T06:21:23.694Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T06:36:55.453Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T06:36:55.459Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T06:37:49.107Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T06:37:49.113Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T06:39:25.076Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T06:39:25.083Z"}
+{"level":"error","message":"Access Token Required","method":"PUT","stack":"Error: Access Token Required\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:20:17)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:600:14)\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:610:14)\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:664:3)","timestamp":"2026-06-24T06:44:49.459Z","url":"/api/v1/songs/6a3b7967b192c809e8c91928"}
+{"level":"error","message":"Access Token Required","method":"DELETE","stack":"Error: Access Token Required\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:20:17)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:600:14)\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:610:14)\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:664:3)","timestamp":"2026-06-24T06:48:35.175Z","url":"/api/v1/songs/6a3b7967b192c809e8c91929"}
+{"level":"error","message":"Song Not Found","method":"DELETE","stack":"Error: Song Not Found\n    at deleteSong (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\song.service.js:194:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\song.controller.js:162:13","timestamp":"2026-06-24T06:49:16.203Z","url":"/api/v1/songs/6a3b7967b192c809e8c91929"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T07:31:59.285Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T07:31:59.290Z"}
+{"level":"error","message":"Genre Not Found","method":"DELETE","stack":"Error: Genre Not Found\n    at deleteGenre (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\genre.service.js:110:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\genre.controller.js:126:13","timestamp":"2026-06-24T07:39:00.986Z","url":"/api/v1/genres/6a3a2c03e3627697b14468b6"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T07:43:16.190Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T07:43:16.197Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T07:43:26.800Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T07:43:26.806Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T07:43:38.532Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T07:43:38.538Z"}
+{"level":"error","message":"Artist Not Found","method":"DELETE","stack":"Error: Artist Not Found\n    at deleteArtist (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\artist.service.js:152:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\artist.controller.js:134:13","timestamp":"2026-06-24T07:53:44.471Z","url":"/api/v1/artists/6a3a857c94fac0cb68c04de5"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T07:57:06.676Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T07:57:06.682Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T07:57:27.824Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T07:57:27.831Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T07:57:45.153Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T07:57:45.158Z"}
+{"level":"error","message":"Access Token Required","method":"PUT","stack":"Error: Access Token Required\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:20:17)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:600:14)\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:610:14)\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:664:3)","timestamp":"2026-06-24T08:09:54.467Z","url":"/api/v1/albums/6a3a87fc94fac0cb68c04de5"}
+{"level":"error","message":"Album Not Found","method":"DELETE","stack":"Error: Album Not Found\n    at deleteAlbum (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\album.service.js:156:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\album.controller.js:134:13","timestamp":"2026-06-24T08:12:52.264Z","url":"/api/v1/albums/6a3a87fc94fac0cb68c04de6"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T08:28:23.267Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T08:28:23.273Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T08:29:49.014Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T08:29:49.022Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T08:30:02.900Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T08:30:02.906Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T08:30:16.545Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T08:30:16.555Z"}
+{"level":"error","message":"User already exists with this email","method":"POST","stack":"Error: User already exists with this email\n    at registerUser (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:30:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:17:24","timestamp":"2026-06-24T09:52:53.825Z","url":"/api/v1/auth/register"}
+{"level":"error","message":"Invalid Email or Password","method":"POST","stack":"Error: Invalid Email or Password\n    at loginUser (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:92:15)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:34:13","timestamp":"2026-06-24T09:53:09.592Z","url":"/api/v1/auth/login"}
+{"level":"error","message":"Invalid Email or Password","method":"POST","stack":"Error: Invalid Email or Password\n    at loginUser (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:92:15)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:34:13","timestamp":"2026-06-24T09:54:27.924Z","url":"/api/v1/auth/login"}
+{"level":"error","message":"Invalid or Expired Token","method":"GET","stack":"Error: Invalid or Expired Token\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:53:13)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)","timestamp":"2026-06-24T10:00:07.685Z","url":"/api/v1/playlists"}
+{"level":"error","message":"Access Token Required","method":"PUT","stack":"Error: Access Token Required\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:20:17)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:600:14)\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:610:14)\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:664:3)","timestamp":"2026-06-24T10:03:45.391Z","url":"/api/v1/playlists/6a3baa4412e19503630b87a2"}
+{"level":"error","message":"Route Not Found - /api/v1/playlists/6a3baa4412e19503630b87a2/6a3b7967b192c809e8c91928","method":"POST","stack":"Error: Route Not Found - /api/v1/playlists/6a3baa4412e19503630b87a2/6a3b7967b192c809e8c91928\n    at notFound (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\notFound.middleware.js:5:9)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:688:15\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:276:14)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)\n    at router (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:60:12)","timestamp":"2026-06-24T10:07:53.573Z","url":"/api/v1/playlists/6a3baa4412e19503630b87a2/6a3b7967b192c809e8c91928"}
+{"level":"error","message":"Access Token Required","method":"POST","stack":"Error: Access Token Required\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:20:17)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:600:14)\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:610:14)\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:664:3)","timestamp":"2026-06-24T10:08:34.090Z","url":"/api/v1/playlists/6a3baa4412e19503630b87a2/songs"}
+{"level":"error","message":"Access Token Required","method":"GET","stack":"Error: Access Token Required\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:20:17)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:600:14)\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:610:14)\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:664:3)","timestamp":"2026-06-24T10:11:03.372Z","url":"/api/v1/playlists/6a3baa4412e19503630b87a2/songs"}
+{"level":"error","message":"Playlist Not Found","method":"DELETE","stack":"Error: Playlist Not Found\n    at deletePlaylist (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\playlist.service.js:159:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\playlist.controller.js:108:13","timestamp":"2026-06-24T10:15:11.521Z","url":"/api/v1/playlists/6a3baa4412e19503630b87a3"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:38:23.729Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:38:23.736Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:42:54.624Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:42:54.630Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:43:13.794Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:43:13.801Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:43:39.778Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:43:39.784Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:43:59.467Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:43:59.473Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:45:07.445Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:45:07.452Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:45:17.878Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:45:17.886Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:45:28.074Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:45:28.080Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:45:40.568Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:45:40.574Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:46:04.100Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:46:04.106Z"}
+{"level":"error","message":"Favorite not found","method":"DELETE","stack":"Error: Favorite not found\n    at removeFavorite (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\favorite.service.js:64:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\favorite.controller.js:61:13","timestamp":"2026-06-24T10:52:36.818Z","url":"/api/v1/favorites/6a3bb3d5feb5cfee31dffc54"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:54:26.715Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:54:26.720Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:54:41.146Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:54:41.152Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:54:56.312Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:54:56.318Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:55:09.749Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:55:09.755Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:56:07.511Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:56:07.518Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:56:19.636Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:56:19.642Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:56:32.301Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:56:32.306Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:57:01.557Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:57:01.563Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T10:57:17.165Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T10:57:17.171Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:04:44.655Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:04:44.661Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:04:45.965Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:04:45.970Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:04:52.951Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:04:52.958Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:05:34.644Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:05:34.650Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:06:18.471Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:06:18.477Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:06:29.762Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:06:29.768Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:06:53.350Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:06:53.355Z"}
+{"level":"error","message":"Access Token Required","method":"POST","stack":"Error: Access Token Required\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:20:17)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:600:14)\n    at param (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:610:14)\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:664:3)","timestamp":"2026-06-24T11:07:45.580Z","url":"/api/v1/songs/6a3b7967b192c809e8c91928/play"}
+{"level":"error","message":"Song Not Found","method":"POST","stack":"Error: Song Not Found\n    at playSong (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\song.service.js:237:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\song.controller.js:187:13","timestamp":"2026-06-24T11:09:03.785Z","url":"/api/v1/songs/6a3b7967b192c809e8c91928/play"}
+{"level":"error","message":"Invalid or Expired Token","method":"GET","stack":"Error: Invalid or Expired Token\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:53:13)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)","timestamp":"2026-06-24T11:10:07.617Z","url":"/api/v1/history"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:13:02.799Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:13:02.804Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:13:18.893Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:13:18.899Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:13:34.951Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:13:34.957Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:13:48.500Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:13:48.506Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:14:07.235Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:14:07.241Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:14:20.993Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:14:20.999Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:14:35.469Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:14:35.477Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:21:51.829Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:21:51.835Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:21:53.182Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:21:53.188Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:22:01.753Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:22:01.759Z"}
+{"level":"error","message":"Invalid or Expired Token","method":"POST","stack":"Error: Invalid or Expired Token\n    at authMiddleware (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\middleware\\auth.middleware.js:53:13)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:291:5)\n    at Function.handle (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\node_modules\\router\\index.js:186:3)","timestamp":"2026-06-24T11:31:27.925Z","url":"/api/v1/auth/logout"}
+{"level":"error","message":"Invalid Refresh Token","method":"POST","stack":"Error: Invalid Refresh Token\n    at refreshAccessToken (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:351:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:94:13","timestamp":"2026-06-24T11:32:33.270Z","url":"/api/v1/auth/refresh-token"}
+{"level":"error","message":"Invalid Refresh Token","method":"POST","stack":"Error: Invalid Refresh Token\n    at refreshAccessToken (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:351:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:94:13","timestamp":"2026-06-24T11:33:03.477Z","url":"/api/v1/auth/refresh-token"}
+{"level":"error","message":"Invalid Refresh Token","method":"POST","stack":"Error: Invalid Refresh Token\n    at refreshAccessToken (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:351:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:94:13","timestamp":"2026-06-24T11:33:04.769Z","url":"/api/v1/auth/refresh-token"}
+{"level":"error","message":"Invalid Refresh Token","method":"POST","stack":"Error: Invalid Refresh Token\n    at refreshAccessToken (C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\services\\auth.service.js:351:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async C:\\Users\\GLB-BLR-152\\Desktop\\music-streaming-backend\\src\\controllers\\auth.controller.js:94:13","timestamp":"2026-06-24T11:33:05.275Z","url":"/api/v1/auth/refresh-token"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:37:55.273Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:37:55.280Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:38:07.163Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:38:07.169Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T11:38:31.846Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T11:38:31.851Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:15:15.832Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:15:15.838Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:17:51.895Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:17:51.902Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:22:06.833Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:22:06.839Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:22:25.185Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:22:25.191Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:22:40.865Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:22:40.871Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:23:16.137Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:23:16.143Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:23:42.760Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:23:42.766Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:24:08.634Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:24:08.640Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:24:24.672Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:24:24.678Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:24:30.030Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:24:30.035Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:24:31.282Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:24:31.288Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:33:59.412Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:33:59.419Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:38:32.444Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:38:32.449Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:38:41.976Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:38:41.982Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:39:38.755Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:39:38.762Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:43:00.847Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:43:00.853Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:43:09.498Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:43:09.503Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:44:41.151Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:44:41.157Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:44:49.281Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:44:49.286Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:46:55.573Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:46:55.580Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:51:03.015Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:51:03.021Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:51:11.698Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:51:11.705Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:54:09.390Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:54:09.398Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:54:46.180Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:54:46.186Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:56:31.912Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:56:31.918Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:56:38.246Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:56:38.252Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:59:27.491Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:59:27.500Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:59:35.530Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:59:35.537Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:59:47.852Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:59:47.858Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T12:59:53.848Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T12:59:53.853Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:00:17.467Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:00:17.473Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:00:23.217Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:00:23.223Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:00:24.384Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:00:24.390Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:00:33.004Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:00:33.011Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:00:41.106Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:00:41.112Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:00:45.363Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:00:45.369Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:00:47.162Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:00:47.168Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:00:50.241Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:00:50.247Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:00:51.542Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:00:51.548Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:00:55.243Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:00:55.250Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:00:57.952Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:00:57.958Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:01:12.049Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:01:12.056Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:01:13.688Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:01:13.695Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:01:21.863Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:01:21.868Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:01:25.338Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:01:25.344Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:02:05.389Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:02:05.395Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:02:11.474Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:02:11.480Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:02:13.895Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:02:13.901Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:02:17.200Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:02:17.206Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:02:25.383Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:02:25.389Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:02:32.151Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:02:32.156Z"}
+{"level":"info","message":"MongoDB Connected: ac-n8yrxbj-shard-00-00.ugkiaq0.mongodb.net","timestamp":"2026-06-24T13:06:00.946Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2026-06-24T13:06:00.952Z"}
